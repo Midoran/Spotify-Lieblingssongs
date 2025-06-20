@@ -10,7 +10,7 @@ CLIENT_SECRET = "1359a02875eb40b6a5b39a863e0e6f28"
 REDIRECT_URI = "http://127.0.0.1:8888/callback"
 
 # Ziel-Playlist-ID (muss dir gehören)
-TARGET_PLAYLIST_ID = "08TqgXsXb6l0rgxwYatZTm"
+TARGET_PLAYLIST_ID = "2naAHCUo57fJGdMzw7ogcO"
 
 # Dateien für gespeicherte IDs und Log
 SYNCED_FILE = "synced_tracks.json"
